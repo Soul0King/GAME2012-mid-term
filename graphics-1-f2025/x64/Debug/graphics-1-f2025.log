@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\School\GAME 2012\graphics-1-f2025-midterm-start\src\main.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\School\GAME 2012\graphics-1-f2025-midterm-start\src\main.cpp(180,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  graphics-1-f2025.vcxproj -> C:\School\GAME 2012\graphics-1-f2025-midterm-start\x64\Debug\graphics-1-f2025.exe
